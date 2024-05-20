@@ -4,11 +4,11 @@ Hi 👋 My name is Mahek Nizar
 Java Developer
 --------------
 
-I am currently a college student working towards a Bachelors if Information Technology. I am very interested in computer programing. I have some experience in python, html, and java script but am currently working towards strengthening my knowledge in Java.
+I am currently a college student working towards a Bachelors if Information Technology. I am very interested in cybersecurity and AI. I have experience in Python, HTML, Java, JavaScript, and C++.
 
 *   🌍  I'm based in Washington
 *   ✉️  You can contact me at [maheknizar@gmail.com](mailto:maheknizar@gmail.com)
-*   🧠  I'm learning Java
+*   🧠  I'm learning Machine Learning
 
  ### Skills 
 <p align="left">
