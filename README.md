@@ -4,7 +4,7 @@ Hi 👋 My name is Mahek Nizar
 Java Developer
 --------------
 
-I am currently a college student working towards a Bachelors if Information Technology. I am very interested in cybersecurity and AI. I have experience in Python, HTML, Java, JavaScript, and C++.
+I am currently a college student working towards a Bachelors of Information Technology. I am very interested in cybersecurity and AI. I have experience in Python, HTML, Java, JavaScript, and C++.
 
 *   🌍  I'm based in Washington
 *   ✉️  You can contact me at [maheknizar@gmail.com](mailto:maheknizar@gmail.com)
